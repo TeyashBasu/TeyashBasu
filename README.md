@@ -11,7 +11,7 @@
 <h3> 🛠 &nbsp;My Utility Belt consists of:-</h3>
 
 &nbsp; &nbsp; &nbsp; 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=63f542)
+  ![SQL](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=63f542)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -24,7 +24,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
   
 
-&nbsp; &nbsp; &nbsp; 🛢 &nbsp;
+<!-- &nbsp; &nbsp; &nbsp; 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Oracle DB](https://img.shields.io/badge/-OracleDB-333333?style=flat&logo=oracle)
 
@@ -62,3 +62,4 @@
 <a href="mailto:bernardbdas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bernardbdas@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://bernardbdas.github.io/bernardbdas/"><img alt="Website" src="https://img.shields.io/badge/Website-www.bernardbdas.github.io/bernardbdas/-blue?style=flat-square&logo=google-chrome"></a>
 </p>
+ -->
