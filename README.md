@@ -4,8 +4,7 @@
 
 - &nbsp; I am a postgraduate student at Christ (Deemed to be University), Bangalore.
 - &nbsp; Currently, I am doing my Master's in Computer Applications (MCA).
-- &nbsp; Data Analytics, Artificial Intelligence and Quantum Computing are some topics that I find interesting.
-- &nbsp; Playing VALORANT and Ukulele are some of the few things I do when I don't study/work.
+- &nbsp; Data Analytics, web and mobile application development are some topics that I find interesting.
 
 <br/>
 
@@ -49,7 +48,7 @@
 
 <a href="https://github.com/bernardbdas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardbdas&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardbdas&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teyash Basu&theme=buefy&layout=compact" />
 </a>
 
 <br/>
